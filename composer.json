@@ -7,12 +7,12 @@
     "license": "GPL-3.0-or-later",
     "require": {
        "php": "^7.3.0",
-        "dazzlesoftware/http": "^1.0",
-        "dazzlesoftware/registry": "^1.0",
-        "dazzlesoftware/uri": "^1.0"
+        "dazzlesoftware/http": "^1.0|^2.0",
+        "dazzlesoftware/registry": "^1.0|^2.0",
+        "dazzlesoftware/uri": "^1.0|^2.0"
     },
     "require-dev": {
-        "dazzlesoftware/dazzle-coding-standard": "^1.0",
+        "dazzlesoftware/dazzle-coding-standard": "^1.0|^2.0",
         "phpunit/phpunit": "^9.0"
     },
     "autoload": {
